@@ -1,0 +1,29 @@
+---
+title: "Megan-Redican-Portfolio"
+author: "Megan Redican"
+format: html
+---
+
+## Data Description
+1. PISCO data
+2. Underwater dive transects in excel documents that include date, location, abbreviations of animals and plants, as well as distance betweeen each marine life siting
+3. I want to identify density counts of a certain species compared to another possibly at different points of the year.
+
+## Data Visualization
+1. I want my final visualizations to be a linear regression graph to analyse the relationship between the two species and actually see if they are related to each some way. I can also do a simple line graph for each species by year and density and then combine the two.
+2. I want to highlight the differences between each species density and note the years of high and low counts as well. 
+3. There is a chance that not all the data will match up perfectly and could be missing some years.
+
+## Data Cleaning
+1. YES
+2. YES
+3. YES. I will need to filter out certain species from the columns to make it more comprehensible.
+4. NO
+5. NO
+6. YES
+7. NO
+8. YES. Maybe I can summarise the counts and calculate average densities.
+9. I need to rename columns, filter data, and average the densities of the species I choose.
+
+
+
